@@ -1,5 +1,8 @@
 _repo: The-fauna-of-the-deep-sea_64380
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64380-h/images/cover.jpg
 creator:
   author:
     agent_name: Hickson, Sydney J. (Sydney John)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2588
     wikipedia: https://en.wikipedia.org/wiki/John_Lubbock,_1st_Baron_Avebury
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64380#The-fauna-of-the-deep-sea
 gutenberg_issued: '2021-01-24'
 gutenberg_type: Text
 identifiers:
