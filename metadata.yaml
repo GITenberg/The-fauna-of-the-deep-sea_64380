@@ -1,0 +1,42 @@
+_repo: The-fauna-of-the-deep-sea_64380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hickson, Sydney J. (Sydney John)
+    alias: Hickson, Sydney John
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '52878'
+    url: http://www.gutenberg.org/2009/agents/52878
+    wikipedia: https://en.wikipedia.org/wiki/Sydney_J._Hickson
+  editor:
+    agent_name: Lubbock, John, Sir
+    aliases:
+    - Lubbock, John, Baron Avebury
+    - Lubbock, Sir John
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '2588'
+    url: http://www.gutenberg.org/2009/agents/2588
+    wikipedia: https://en.wikipedia.org/wiki/John_Lubbock,_1st_Baron_Avebury
+description: ''
+gutenberg_issued: '2021-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Modern science series
+subjects:
+- !lcc 'QL'
+- !lcsh 'Marine animals'
+- GITenberg
+tableOfContents: A short history of the investigations -- The physical conditions
+  of the abyss -- The relations of the abysmal zone and the origin of its fauna --
+  The characters of the deep-sea fauna -- The protozoa, cœlentera, and echinoderma
+  of the deep sea -- The vermes and mollusca of the deep sea -- The arthropoda of
+  the deep sea -- The fish of the deep sea.
+title: The fauna of the deep sea
+url: http://www.gutenberg.org/ebooks/64380
